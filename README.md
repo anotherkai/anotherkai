@@ -1,14 +1,15 @@
-# Kai S
+# Hello :D
 
-Hi, I'm Kai S, a passionate self-taught programmer with over 4 years of experience in coding. While I currently don't hold a professional job, my journey in programming has been fueled by curiosity and a drive to learn.
+Hi, I'm Kai, a self-taught programmer with over 4 years of experience. I am currently a student which means I do not currently hold a position at a job.
 
 ## Contact
 
+If you feel the need to contact me, you may contact me by using one of the two emails below.
 - **Email**: [kai@littlekai.co.uk](mailto:kai@littlekai.co.uk) / [kaimv.hi@gmail.com](mailto:kaimv.hi@gmail.com)
 
 ## Professional Background
 
-I have a rich background in programming, with over 4 years of experience. My expertise spans across various languages and technologies including:
+I have self-taught myself a bit of languages and how to use technologies. A list of some I have used are:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
