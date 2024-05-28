@@ -41,3 +41,9 @@ I am proficient in several programming languages and tools, and I am always eage
 
 - **Short-term Goals**: Improve my JavaScript skills and expand my knowledge in server networking.
 - **Long-term Goals**: Transition to using JavaScript more extensively and explore new opportunities in web development and networking.
+
+# Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherkai&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anotherkai&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anotherkai&theme=vue-dark&hide_border=false)
