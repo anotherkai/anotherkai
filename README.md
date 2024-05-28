@@ -9,7 +9,7 @@ If you feel the need to contact me, you may contact me by using one of the two e
 
 ## Professional Background
 
-I have self-tauhght myself a bit of languages and how to use technologies. A list of some I have used are:
+I have self-taught myself a bit of languages and how to use technologies. A list of some I have used are:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
